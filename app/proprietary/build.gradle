@@ -46,7 +46,7 @@ dependencies {
     implementation "org.bouncycastle:bcprov-jdk18on:$bouncycastleVersion"
 
     // PDF/UA tagging and its validation oracle.
-    implementation 'org.verapdf:validation-model:1.30.2'
+    implementation 'org.verapdf:validation-model:1.30.3'
     // CVE-2025-66453: Explicit rhino 1.7.15 to override verapdf's 1.7.13
     implementation "org.mozilla:rhino:${rhinoVersion}"
     // veraPDF still uses javax.xml.bind, not the new jakarta namespace
