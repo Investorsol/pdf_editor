@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <!-- Scale only, anchored at the origin: BrandMark.css morphs these paths with matrices written in the mark's own 71x79 units. -->
   <g transform="scale(0.303797)">
-    <path class="sui-brandmark__a" d="M0 39 L46.5 0 L46.5 35.5 L0 74.5 Z" />
-    <path class="sui-brandmark__b" d="M24 43 L70.5 4 L70.5 39.5 L24 78.5 Z" />
+    <path class="sui-brandmark__a" style="fill: #E33116 !important;" d="M26 4 H47 L67 24 V44 A22 22 0 0 1 45 66 H24 L4 77 V26 A22 22 0 0 1 26 4 Z" />
+    <path class="sui-brandmark__b" style="fill: #B91C1C !important;" d="M47 4 V24 H67 Z" />
+    <path class="sui-brandmark__c" fill="#FFFFFF" d="M45.5 18.68 A20 20 0 1 0 55.47 37 V30 H35.5 V37 H45.45 A10 10 0 1 1 40.75 26.91 Z" />
+    <circle class="sui-brandmark__d" fill="#FFFFFF" cx="35.5" cy="33.5" r="5" />
+    <circle class="sui-brandmark__e" style="fill: #E33116 !important;" cx="35.5" cy="33.5" r="1.8" />
   </g>
 </svg>
